@@ -2,7 +2,7 @@
   <img src="https://github-ztanruan.s3.amazonaws.com/header_.png" alt="Header Image" />
 </p>
 
-<h1 align="center"> Hi, I'm Jake Wen (JW) 👋 </h1>
+<h1 align="center"> Hi, I'm JW 👋 </h1>
 
 <h3 align="center">Senior Generative AI & Machine Learning Engineer @ AWS</h3>
 
