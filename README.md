@@ -65,5 +65,4 @@ Currently, I collaborate with AI/ML scientists and architects to design, build, 
 - 💻 [Personal Website](https:///)
 - 📝 [Resume / CV](https://)
 
-<p align="center"><img src="https://ztanruan.com/assets/chatbot.png" width="150"></p>
 
