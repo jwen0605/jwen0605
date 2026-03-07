@@ -20,8 +20,8 @@ Currently, I collaborate with AI/ML scientists and architects to design, build, 
 
 - 🔭 **Focus:** Scalable Generative AI, Cloud Infrastructure, and Cloud Modernization.
 - 🌱 **Credentials:** 10x AWS Certified (including specialized Machine Learning certification).
-- 🇺🇸 **Background:** Former Research Scientist @ Concord Dawn Air Force Research Lab.
-- 🗣️ **Multilingual:** Fluent in **English, Chinese, and Spanish**.
+- 🇺🇸 **Background:** AWS Solutions Architect.
+- 🗣️ **Multilingual:** Fluent in **English, Mandarin, and Cantoneses**.
 - 🤝 **Mentorship:** Dedicated to coaching interns and CSC Solutions Architects.
 
 ---
