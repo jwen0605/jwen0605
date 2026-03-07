@@ -1,11 +1,11 @@
 ![](https://github-ztanruan.s3.amazonaws.com/header_.png)
 
-<h1 align="center"> 你好 (Nihaou), I'm Zhen (Jin) Tan Ruan </h1>
+<h1 align="center"> Hi, I'm JW </h1>
 
-<h3 align="center">I'm a Senior Generative AI and Machine Learning Engineer from NYC 🗽</h3>
+<h3 align="center">I'm a Solutions Architect from California.</h3>
 
   
-I’m Jin, a Senior Generative AI Engineer specializing in building and deploying production-ready generative AI applications powered by LLMs 🚀. Based in New York, I focus on agentic applications, fine-tuning foundation models, and enterprise-grade AI/ML solutions that drive innovation at scale. Currently, I work as a Generative AI Developer on the Global Prototyping team at Amazon Web Services (AWS), where I research, design, and develop AI-driven applications that integrate artificial general intelligence (AGI) capabilities into real-world enterprise solutions 🤖. I collaborate closely with AI/ML scientists, solution architects, and engineers to design, build, and optimize scalable, production-ready generative AI systems that solve complex business challenges 💻.
+I collaborate closely with AI/ML scientists, solution architects, and engineers to design, build, and optimize scalable, production-ready generative AI systems that solve complex business challenges 💻.
 
 <h3>Things I code with</h3>
 <p>
