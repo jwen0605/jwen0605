@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hi, I'm JW 👋 </h1>
 
-<h3 align="center">Senior Generative AI & Machine Learning Engineer @ AWS</h3>
+<h3 align="center">Generative AI & Machine Learning Engineer @ AWS</h3>
 
 <p align="center">
   <strong>Solutions Architect | AI/ML Specialist | Cloud Modernization Expert</strong>
