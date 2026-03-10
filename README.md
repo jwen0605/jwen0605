@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I am a California-based **Solutions Architect** and **Senior Generative AI Engineer** with over 7 years of experience in the AWS ecosystem. I specialize in bridging the gap between complex business challenges and high-performance engineering solutions. 
+I am a California-based **Solutions Architect** and **Generative AI Engineer** with over 7 years of experience in the AWS ecosystem. I specialize in bridging the gap between complex business challenges and high-performance engineering solutions. 
 
 Currently, I collaborate with AI/ML scientists and architects to design, build, and optimize production-ready generative systems that scale. I’m also passionate about mentoring the next generation of SAs and driving technical wins through strategic pre-sales architecture.
 
